@@ -1,2 +1,4 @@
 __pycache__
 collector.py
+data/data.csv
+data/data*.csv
